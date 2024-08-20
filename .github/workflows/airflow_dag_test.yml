@@ -21,6 +21,11 @@ jobs:
       with:
         python-version: 3.8  # Adjust this to your Python version if necessary
 
+    - name: Set up AIRFLOW_HOME
+      run: |
+        export AIRFLOW_HOME=$(pwd)/airflow_home
+        echo "AIRFLOW_HOME=$AIRFLOW_HOME" >> $GITHUB_ENV
+
     - name: Install dependencies
       run: |
         python -m venv venv
