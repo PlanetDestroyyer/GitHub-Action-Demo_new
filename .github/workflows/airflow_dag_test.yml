@@ -31,8 +31,6 @@ jobs:
     
     - name: List DAGs
       run: |
-        mkdir -p ~/.airflow
-        export AIRFLOW_HOME=~/.airflow
         echo "Listing all DAGs..."
         airflow dags list --output json
     
