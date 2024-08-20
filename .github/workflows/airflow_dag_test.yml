@@ -31,11 +31,6 @@ jobs:
         echo "Listing all DAGs..."
         airflow dags list
 
-    - name: Check Airflow Configuration
-      run: |
-        echo "Airflow Configuration:"
-        cat $AIRFLOW_HOME/airflow.cfg
-
     - name: Test DAG integrity
       run: |
         echo "Testing DAG integrity..."
