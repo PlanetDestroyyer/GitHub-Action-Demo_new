@@ -1,51 +1,72 @@
-name: Airflow DAG Test
+name: Airflow DAG CI/CD
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   pull_request:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
-
-  test:
+  airflow_dag_job:
     runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v2
     
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.8'
-    
+        python-version: 3.8  # Adjust this to your Python version if necessary
+
     - name: Install dependencies
       run: |
-        pip install apache-airflow[postgres] pandas scikit-learn mlflow
-    
-    - name: Initialize Airflow DB
-      env:
-        AIRFLOW_HOME: ${{ github.workspace }}/airflow
+        python -m venv venv
+        source venv/bin/activate
+        pip install apache-airflow
+        pip install pandas numpy scikit-learn mlflow joblib
+
+    - name: Initialize Airflow database
       run: |
+        source venv/bin/activate
         airflow db init
-    
-    - name: List DAGs
-      env:
-        AIRFLOW_HOME: ${{ github.workspace }}/airflow
+
+    - name: Copy DAGs to Airflow DAGs folder
       run: |
-        echo "Listing all DAGs..."
-        airflow dags list --output json
-    
-    - name: Test DAG integrity
-      env:
-        AIRFLOW_HOME: ${{ github.workspace }}/airflow
+        mkdir -p $AIRFLOW_HOME/dags
+        cp dags/*.py $AIRFLOW_HOME/dags/
+
+    - name: Copy dataset to the correct location
       run: |
-        echo "Testing DAG integrity..."
-        python -c "from airflow.models import DagBag; d = DagBag(); print('DAGs:', d.dags.keys())"
-    
-    - name: Run DAG tasks
-      env:
-        AIRFLOW_HOME: ${{ github.workspace }}/airflow
+        cp LoanApprovalPrediction.csv $AIRFLOW_HOME/LoanApprovalPrediction.csv
+
+    - name: Run Airflow DAG
       run: |
-        airflow tasks test loan_approval_prediction_new train_and_evaluate 2024-08-18
-        airflow dags test loan_approval_prediction_new train_and_evaluate 2024-08-18
+        source venv/bin/activate
+        airflow dags trigger loan_approval_prediction_new
+
+    - name: Run Airflow scheduler
+      run: |
+        source venv/bin/activate
+        airflow scheduler &
+        sleep 10  # Give the scheduler time to start
+
+    - name: Wait for DAG to complete
+      run: |
+        source venv/bin/activate
+        airflow tasks state loan_approval_prediction_new load_data
+        airflow tasks state loan_approval_prediction_new train_and_evaluate
+
+    - name: Collect and store logs
+      run: |
+        mkdir -p logs
+        cp $AIRFLOW_HOME/logs/* logs/
+      if: failure()
+      
+    - name: Upload logs as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: airflow-logs
+        path: logs/
