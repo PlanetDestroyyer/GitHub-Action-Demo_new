@@ -1,0 +1,14 @@
+[2024-08-20T19:37:25.657+0530] {processor.py:161} INFO - Started process (PID=18577) to work on /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-08-20T19:37:25.658+0530] {processor.py:830} INFO - Processing file /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2024-08-20T19:37:25.660+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:25.659+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-08-20T19:37:25.706+0530] {processor.py:840} INFO - DAG(s) 'example_branch_python_operator_decorator' retrieved from /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-08-20T19:37:25.761+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:25.760+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:37:25.806+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:25.806+0530] {dag.py:3947} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:37:25.975+0530] {processor.py:183} INFO - Processing /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.330 seconds
+[2024-08-20T19:39:01.264+0530] {processor.py:161} INFO - Started process (PID=19324) to work on /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-08-20T19:39:01.266+0530] {processor.py:830} INFO - Processing file /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2024-08-20T19:39:01.268+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:01.267+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-08-20T19:39:01.325+0530] {processor.py:840} INFO - DAG(s) 'example_branch_python_operator_decorator' retrieved from /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-08-20T19:39:01.379+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:01.379+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:39:01.425+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:01.424+0530] {dag.py:3947} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:39:01.640+0530] {processor.py:183} INFO - Processing /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.390 seconds

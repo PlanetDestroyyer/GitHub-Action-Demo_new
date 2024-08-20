@@ -1,0 +1,35 @@
+[2024-08-20T19:36:35.042+0530] {processor.py:161} INFO - Started process (PID=18169) to work on /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:36:35.043+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/loan_approval_prediction_new.py for tasks to queue
+[2024-08-20T19:36:35.045+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:36:35.045+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:36:39.150+0530] {processor.py:840} INFO - DAG(s) 'loan_approval_prediction_new' retrieved from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:36:39.177+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:36:39.176+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:36:39.222+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:36:39.221+0530] {dag.py:3947} INFO - Setting next_dagrun for loan_approval_prediction_new to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:36:39.462+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/loan_approval_prediction_new.py took 4.435 seconds
+[2024-08-20T19:37:30.083+0530] {processor.py:161} INFO - Started process (PID=18608) to work on /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:37:30.084+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/loan_approval_prediction_new.py for tasks to queue
+[2024-08-20T19:37:30.086+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:30.085+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:37:32.897+0530] {processor.py:840} INFO - DAG(s) 'loan_approval_prediction_new' retrieved from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:37:32.918+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:32.917+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:37:32.958+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:32.958+0530] {dag.py:3947} INFO - Setting next_dagrun for loan_approval_prediction_new to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:37:33.166+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/loan_approval_prediction_new.py took 3.095 seconds
+[2024-08-20T19:38:17.413+0530] {processor.py:161} INFO - Started process (PID=19052) to work on /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:38:17.414+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/loan_approval_prediction_new.py for tasks to queue
+[2024-08-20T19:38:17.416+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:38:17.415+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:38:20.312+0530] {processor.py:840} INFO - DAG(s) 'loan_approval_prediction_new' retrieved from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:38:20.334+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:38:20.333+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:38:20.372+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:38:20.371+0530] {dag.py:3947} INFO - Setting next_dagrun for loan_approval_prediction_new to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:38:20.606+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/loan_approval_prediction_new.py took 3.206 seconds
+[2024-08-20T19:39:06.174+0530] {processor.py:161} INFO - Started process (PID=19345) to work on /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:39:06.176+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/loan_approval_prediction_new.py for tasks to queue
+[2024-08-20T19:39:06.178+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:06.177+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:39:09.006+0530] {processor.py:840} INFO - DAG(s) 'loan_approval_prediction_new' retrieved from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:39:09.028+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:09.027+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:39:09.065+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:09.065+0530] {dag.py:3947} INFO - Setting next_dagrun for loan_approval_prediction_new to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:39:09.312+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/loan_approval_prediction_new.py took 3.149 seconds
+[2024-08-20T19:40:04.724+0530] {processor.py:161} INFO - Started process (PID=20049) to work on /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:40:04.874+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/loan_approval_prediction_new.py for tasks to queue
+[2024-08-20T19:40:04.876+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:40:04.875+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:40:18.497+0530] {processor.py:840} INFO - DAG(s) 'loan_approval_prediction_new' retrieved from /home/pranav/airflow/dags/loan_approval_prediction_new.py
+[2024-08-20T19:40:18.587+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:40:18.586+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:40:18.629+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:40:18.629+0530] {dag.py:3947} INFO - Setting next_dagrun for loan_approval_prediction_new to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:40:18.787+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/loan_approval_prediction_new.py took 14.077 seconds

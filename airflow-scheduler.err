@@ -1,0 +1,25 @@
+INFO  [airflow.utils.log.task_context_logger] Task context logging is enabled
+INFO  [airflow.executors.executor_loader] Loaded executor: SequentialExecutor
+[2024-08-20 19:29:53 +0530] [15635] [INFO] Starting gunicorn 22.0.0
+[2024-08-20 19:29:53 +0530] [15635] [INFO] Listening at: http://[::]:8793 (15635)
+[2024-08-20 19:29:53 +0530] [15635] [INFO] Using worker: sync
+[2024-08-20 19:29:53 +0530] [15641] [INFO] Booting worker with pid: 15641
+[2024-08-20 19:29:53 +0530] [15642] [INFO] Booting worker with pid: 15642
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Starting the scheduler
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Processing each file at most -1 times
+INFO  [airflow.dag_processing.manager.DagFileProcessorAgent] Launched DagFileProcessorManager with pid: 15649
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Adopting or resetting orphaned tasks for active dag runs
+INFO  [airflow.settings] Configured default timezone UTC
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Adopting or resetting orphaned tasks for active dag runs
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Adopting or resetting orphaned tasks for active dag runs
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'

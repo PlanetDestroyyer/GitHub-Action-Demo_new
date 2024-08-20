@@ -1,0 +1,14 @@
+[2024-08-20T19:37:28.600+0530] {processor.py:161} INFO - Started process (PID=18592) to work on /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-08-20T19:37:28.602+0530] {processor.py:830} INFO - Processing file /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-08-20T19:37:28.603+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:28.603+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-08-20T19:37:28.628+0530] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-08-20T19:37:28.680+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:28.680+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:37:28.724+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:28.724+0530] {dag.py:3947} INFO - Setting next_dagrun for example_bash_operator to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:37:28.980+0530] {processor.py:183} INFO - Processing /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.392 seconds
+[2024-08-20T19:39:04.348+0530] {processor.py:161} INFO - Started process (PID=19326) to work on /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-08-20T19:39:04.350+0530] {processor.py:830} INFO - Processing file /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-08-20T19:39:04.352+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:04.351+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-08-20T19:39:04.382+0530] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-08-20T19:39:04.440+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:04.439+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:39:04.500+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:04.500+0530] {dag.py:3947} INFO - Setting next_dagrun for example_bash_operator to 2024-08-19 00:00:00+00:00, run_after=2024-08-20 00:00:00+00:00
+[2024-08-20T19:39:04.754+0530] {processor.py:183} INFO - Processing /home/pranav/.local/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.420 seconds

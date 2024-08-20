@@ -1,0 +1,47 @@
+name: Airflow DAG Test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies
+      run: |
+        pip install apache-airflow pandas scikit-learn mlflow
+
+    - name: Initialize Airflow DB
+      run: |
+        airflow db init
+
+    - name: List DAGs
+      run: |
+        echo "Listing all DAGs..."
+        airflow dags list
+
+    - name: Check Airflow Configuration
+      run: |
+        echo "Airflow Configuration:"
+        cat $AIRFLOW_HOME/airflow.cfg
+
+    - name: Test DAG integrity
+      run: |
+        echo "Testing DAG integrity..."
+        python -c "from airflow.models import DagBag; d = DagBag(); print('DAGs:', d.dags.keys())"
+
+    - name: Run DAG tasks
+      run: |
+        airflow tasks test loan_approval_prediction_new load_data 2024-08-18
+        airflow tasks test loan_approval_prediction_new train_and_evaluate 2024-08-18

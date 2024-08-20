@@ -1,0 +1,1 @@
+[2024-08-20T19:29:53.989+0530] {manager.py:393} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1.

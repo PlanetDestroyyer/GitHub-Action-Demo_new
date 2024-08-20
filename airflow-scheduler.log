@@ -1,0 +1,11 @@
+2024-08-20 19:29:09,504 INFO - Task context logging is enabled
+2024-08-20 19:29:09,505 INFO - Loaded executor: SequentialExecutor
+2024-08-20 19:29:53,394 INFO - Task context logging is enabled
+2024-08-20 19:29:53,396 INFO - Loaded executor: SequentialExecutor
+2024-08-20 19:29:53,801 INFO - Starting the scheduler
+2024-08-20 19:29:53,802 INFO - Processing each file at most -1 times
+2024-08-20 19:29:53,903 INFO - Launched DagFileProcessorManager with pid: 15649
+2024-08-20 19:29:53,905 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-08-20 19:29:53,913 INFO - Configured default timezone UTC
+2024-08-20 19:34:54,327 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-08-20 19:39:54,568 INFO - Adopting or resetting orphaned tasks for active dag runs

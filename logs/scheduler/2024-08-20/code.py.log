@@ -1,0 +1,35 @@
+[2024-08-20T19:36:40.847+0530] {processor.py:161} INFO - Started process (PID=18200) to work on /home/pranav/airflow/dags/code.py
+[2024-08-20T19:36:40.848+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/code.py for tasks to queue
+[2024-08-20T19:36:40.850+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:36:40.849+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:36:43.681+0530] {processor.py:840} INFO - DAG(s) 'hcpcs_classification' retrieved from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:36:43.707+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:36:43.706+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:36:43.743+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:36:43.742+0530] {dag.py:3947} INFO - Setting next_dagrun for hcpcs_classification to 2024-08-12 00:00:00+00:00, run_after=2024-08-13 00:00:00+00:00
+[2024-08-20T19:36:43.871+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/code.py took 3.036 seconds
+[2024-08-20T19:37:34.575+0530] {processor.py:161} INFO - Started process (PID=18661) to work on /home/pranav/airflow/dags/code.py
+[2024-08-20T19:37:34.577+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/code.py for tasks to queue
+[2024-08-20T19:37:34.579+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:34.578+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:37:37.399+0530] {processor.py:840} INFO - DAG(s) 'hcpcs_classification' retrieved from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:37:37.423+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:37.422+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:37:37.458+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:37:37.458+0530] {dag.py:3947} INFO - Setting next_dagrun for hcpcs_classification to 2024-08-12 00:00:00+00:00, run_after=2024-08-13 00:00:00+00:00
+[2024-08-20T19:37:37.638+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/code.py took 3.075 seconds
+[2024-08-20T19:38:22.022+0530] {processor.py:161} INFO - Started process (PID=19082) to work on /home/pranav/airflow/dags/code.py
+[2024-08-20T19:38:22.024+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/code.py for tasks to queue
+[2024-08-20T19:38:22.026+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:38:22.025+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:38:24.893+0530] {processor.py:840} INFO - DAG(s) 'hcpcs_classification' retrieved from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:38:24.919+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:38:24.918+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:38:24.953+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:38:24.953+0530] {dag.py:3947} INFO - Setting next_dagrun for hcpcs_classification to 2024-08-12 00:00:00+00:00, run_after=2024-08-13 00:00:00+00:00
+[2024-08-20T19:38:25.190+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/code.py took 3.180 seconds
+[2024-08-20T19:39:10.179+0530] {processor.py:161} INFO - Started process (PID=19371) to work on /home/pranav/airflow/dags/code.py
+[2024-08-20T19:39:10.181+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/code.py for tasks to queue
+[2024-08-20T19:39:10.183+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:10.182+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:39:13.140+0530] {processor.py:840} INFO - DAG(s) 'hcpcs_classification' retrieved from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:39:13.165+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:13.164+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:39:13.202+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:39:13.202+0530] {dag.py:3947} INFO - Setting next_dagrun for hcpcs_classification to 2024-08-12 00:00:00+00:00, run_after=2024-08-13 00:00:00+00:00
+[2024-08-20T19:39:13.413+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/code.py took 3.246 seconds
+[2024-08-20T19:40:19.333+0530] {processor.py:161} INFO - Started process (PID=20173) to work on /home/pranav/airflow/dags/code.py
+[2024-08-20T19:40:19.390+0530] {processor.py:830} INFO - Processing file /home/pranav/airflow/dags/code.py for tasks to queue
+[2024-08-20T19:40:19.392+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:40:19.391+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:40:22.604+0530] {processor.py:840} INFO - DAG(s) 'hcpcs_classification' retrieved from /home/pranav/airflow/dags/code.py
+[2024-08-20T19:40:22.703+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:40:22.702+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-20T19:40:22.990+0530] {logging_mixin.py:188} INFO - [2024-08-20T19:40:22.989+0530] {dag.py:3947} INFO - Setting next_dagrun for hcpcs_classification to 2024-08-12 00:00:00+00:00, run_after=2024-08-13 00:00:00+00:00
+[2024-08-20T19:40:23.327+0530] {processor.py:183} INFO - Processing /home/pranav/airflow/dags/code.py took 4.008 seconds
