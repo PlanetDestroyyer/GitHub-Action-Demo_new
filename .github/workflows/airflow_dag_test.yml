@@ -47,5 +47,5 @@ jobs:
       env:
         AIRFLOW_HOME: ${{ github.workspace }}/airflow
       run: |
-        airflow dags test loan_approval_prediction_new load_data 2024-08-18
+        airflow tasks test loan_approval_prediction_new train_and_evaluate 2024-08-18
         airflow dags test loan_approval_prediction_new train_and_evaluate 2024-08-18
