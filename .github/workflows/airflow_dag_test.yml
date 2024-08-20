@@ -47,22 +47,27 @@ jobs:
       run: |
         cp LoanApprovalPrediction.csv $AIRFLOW_HOME/LoanApprovalPrediction.csv
 
-    - name: Run Airflow DAG
+    - name: Start Airflow Webserver
       run: |
         source venv/bin/activate
-        airflow dags trigger loan_approval_prediction_new
+        airflow webserver -p 8080 &
+        sleep 10  # Allow the webserver to start properly
 
-    - name: Run Airflow scheduler
+    - name: Start Airflow Scheduler
       run: |
         source venv/bin/activate
         airflow scheduler &
-        sleep 10  # Give the scheduler time to start
+        sleep 20  # Allow the scheduler to start and load DAGs
 
-    - name: Wait for DAG to complete
+    - name: List all available DAGs
       run: |
         source venv/bin/activate
-        airflow tasks state loan_approval_prediction_new load_data
-        airflow tasks state loan_approval_prediction_new train_and_evaluate
+        airflow dags list
+
+    - name: Trigger Airflow DAG
+      run: |
+        source venv/bin/activate
+        airflow dags trigger loan_approval_prediction_new
 
     - name: Collect and store logs
       run: |
