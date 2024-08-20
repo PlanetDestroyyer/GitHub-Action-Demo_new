@@ -38,8 +38,6 @@ jobs:
     
     - name: Test DAG integrity
       run: |
-        mkdir -p ~/.airflow
-        export AIRFLOW_HOME=~/.airflow
         echo "Testing DAG integrity..."
         python -c "from airflow.models import DagBag; d = DagBag(); print('DAGs:', d.dags.keys())"
     
