@@ -17,31 +17,35 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.12.4'
+        python-version: '3.8'
     
     - name: Install dependencies
       run: |
-        pip install apache-airflow pandas scikit-learn mlflow
+        pip install apache-airflow[postgres] pandas scikit-learn mlflow
     
     - name: Initialize Airflow DB
+      env:
+        AIRFLOW_HOME: ${{ github.workspace }}/airflow
       run: |
-        mkdir -p ~/.airflow
-        export AIRFLOW_HOME=~/.airflow
         airflow db init
     
     - name: List DAGs
+      env:
+        AIRFLOW_HOME: ${{ github.workspace }}/airflow
       run: |
         echo "Listing all DAGs..."
         airflow dags list --output json
     
     - name: Test DAG integrity
+      env:
+        AIRFLOW_HOME: ${{ github.workspace }}/airflow
       run: |
         echo "Testing DAG integrity..."
         python -c "from airflow.models import DagBag; d = DagBag(); print('DAGs:', d.dags.keys())"
     
     - name: Run DAG tasks
+      env:
+        AIRFLOW_HOME: ${{ github.workspace }}/airflow
       run: |
-        mkdir -p ~/.airflow
-        export AIRFLOW_HOME=~/.airflow
         airflow dags test loan_approval_prediction_new load_data 2024-08-18
         airflow dags test loan_approval_prediction_new train_and_evaluate 2024-08-18
