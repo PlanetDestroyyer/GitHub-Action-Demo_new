@@ -1,0 +1,35 @@
+# Ignore Airflow configuration and database files
+airflow.cfg
+airflow.db
+
+# Ignore log and output files
+airflow-scheduler.err
+airflow-scheduler.log
+airflow-scheduler.out
+airflow-webserver.err
+airflow-webserver.log
+airflow-webserver.out
+
+# Ignore Airflow logs directory
+logs/
+
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.so
+*.o
+*.a

@@ -40,7 +40,7 @@ dag = DAG(
 
 def load_and_preprocess_data():
     # Data Loading
-    data = pd.read_csv("/home/pranav/airflow/LoanApprovalPrediction.csv")
+    data = pd.read_csv("data/LoanApprovalPrediction.csv")
     logging.info("Data loaded successfully")
 
     # Drop unnecessary columns

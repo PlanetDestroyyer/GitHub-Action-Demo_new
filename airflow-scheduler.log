@@ -9,3 +9,15 @@
 2024-08-20 19:29:53,913 INFO - Configured default timezone UTC
 2024-08-20 19:34:54,327 INFO - Adopting or resetting orphaned tasks for active dag runs
 2024-08-20 19:39:54,568 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-08-20 19:44:55,003 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-08-20 19:49:55,352 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-08-20 19:54:55,365 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-08-20 19:58:12,829 INFO - Exiting gracefully upon receiving signal 15
+2024-08-20 19:58:13,838 INFO - Sending 15 to group 15649. PIDs of all processes in the group: [27675, 15649]
+2024-08-20 19:58:13,838 INFO - Sending the signal 15 to group 15649
+2024-08-20 19:58:17,037 INFO - Process psutil.Process(pid=15649, status='terminated', exitcode=0, started='19:29:53') (15649) terminated with exit code 0
+2024-08-20 19:58:17,038 INFO - Process psutil.Process(pid=27675, status='terminated', started='19:58:11') (27675) terminated with exit code None
+2024-08-20 19:58:17,046 INFO - Sending 15 to group 15649. PIDs of all processes in the group: []
+2024-08-20 19:58:17,046 INFO - Sending the signal 15 to group 15649
+2024-08-20 19:58:17,047 INFO - Sending the signal 15 to process 15649 as process group is missing.
+2024-08-20 19:58:17,047 INFO - Exited execute loop

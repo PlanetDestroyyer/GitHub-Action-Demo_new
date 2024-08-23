@@ -238,7 +238,7 @@ input_string = """Onc thyr 10 microrna seq alg Alright, she is here for an annua
 load_and_split_data_task = PythonOperator(
     task_id='load_and_split_data_task',
     python_callable=load_and_split_data,
-    op_kwargs={'file_path': '/home/pranav/airflow/data.csv'},
+    op_kwargs={'file_path': 'data/data.csv'},
     dag=dag,
 )
 

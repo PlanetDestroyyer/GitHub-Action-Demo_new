@@ -23,3 +23,42 @@ INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Adopting or resetti
 <unknown>:56 SyntaxWarning: invalid escape sequence '\w'
 INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Adopting or resetting orphaned tasks for active dag runs
 <unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Adopting or resetting orphaned tasks for active dag runs
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Adopting or resetting orphaned tasks for active dag runs
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Adopting or resetting orphaned tasks for active dag runs
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+<unknown>:56 SyntaxWarning: invalid escape sequence '\w'
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Exiting gracefully upon receiving signal 15
+[2024-08-20 19:58:12 +0530] [15642] [INFO] Worker exiting (pid: 15642)
+[2024-08-20 19:58:12 +0530] [15641] [INFO] Worker exiting (pid: 15641)
+[2024-08-20 19:58:12 +0530] [15635] [INFO] Handling signal: term
+[2024-08-20 19:58:12 +0530] [15635] [INFO] Shutting down: Master
+INFO  [airflow.dag_processing.manager.DagFileProcessorAgent] Sending 15 to group 15649. PIDs of all processes in the group: [27675, 15649]
+INFO  [airflow.dag_processing.manager.DagFileProcessorAgent] Sending the signal 15 to group 15649
+INFO  [airflow.dag_processing.manager.DagFileProcessorAgent] Process psutil.Process(pid=15649, status='terminated', exitcode=0, started='19:29:53') (15649) terminated with exit code 0
+INFO  [airflow.dag_processing.manager.DagFileProcessorAgent] Process psutil.Process(pid=27675, status='terminated', started='19:58:11') (27675) terminated with exit code None
+INFO  [airflow.dag_processing.manager.DagFileProcessorAgent] Sending 15 to group 15649. PIDs of all processes in the group: []
+INFO  [airflow.dag_processing.manager.DagFileProcessorAgent] Sending the signal 15 to group 15649
+INFO  [airflow.dag_processing.manager.DagFileProcessorAgent] Sending the signal 15 to process 15649 as process group is missing.
+INFO  [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] Exited execute loop
