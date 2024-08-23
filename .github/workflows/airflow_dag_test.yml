@@ -45,7 +45,7 @@ jobs:
 
     - name: Copy dataset to the correct location
       run: |
-        cp LoanApprovalPrediction.csv $AIRFLOW_HOME/LoanApprovalPrediction.csv
+        cp data/LoanApprovalPrediction.csv $AIRFLOW_HOME/LoanApprovalPrediction.csv
 
     - name: Start Airflow Webserver
       run: |
