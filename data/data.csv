@@ -1,0 +1,1211 @@
+Code,Description,Services
+86152,Cell enumeration &id,Clinical laboratory services
+86153,Cell enumeration phys interp,Clinical laboratory services
+86890,Autologous blood process,Clinical laboratory services
+86891,Autologous blood op salvage,Clinical laboratory services
+86927,Plasma fresh frozen,Clinical laboratory services
+86930,Frozen blood prep,Clinical laboratory services
+86931,Frozen blood thaw,Clinical laboratory services
+86932,Frozen blood freeze/thaw,Clinical laboratory services
+86945,Blood product/irradiation,Clinical laboratory services
+86950,Leukacyte transfusion,Clinical laboratory services
+86960,Vol reduction of blood/prod,Clinical laboratory services
+86965,Pooling blood platelets,Clinical laboratory services
+86985,Split blood or products,Other clinical laboratory services
+0011M,Onc prst8 ca mrna 12 gen alg,Other clinical laboratory services
+0012M ,Onc mrna 5 gen rsk urthl ca,Other clinical laboratory services
+0013M ,Onc mrna 5 gen recr urthl ca,Other clinical laboratory services
+0016M,Onc bladder mrna 219 gen alg,Other clinical laboratory services
+0017M,Onc dlbcl mrna 20 genes alg,Other clinical laboratory services
+0019M,Cv ds plasma alys prtn bmrk,Other clinical laboratory services
+0640T,Ncntc ifr spctrsc o/t pad 1,Other clinical laboratory services
+0859T,Ncntc ifr spctrsc o/t pad ea,Other clinical laboratory services
+0860T,Ncntc ifr spctrsc scr pad,Other clinical laboratory services
+0018U,Onc thyr 10 microrna seq alg,Other clinical laboratory services
+0019U,Onc rna tiss predict alg,Other clinical laboratory services
+0021U,Onc prst8 detcj 8 autoantb,Other clinical laboratory services
+0022U,Tgsap nsm lung neo dna&rna23,Other clinical laboratory services
+0023U,Onc aml dna detcj/nondetcj,Other clinical laboratory services
+0024U,Glyca nuc mr spectrsc quan,Other clinical laboratory services
+0025U,Tenofovir liq chrom ur quan,Other clinical laboratory services
+0026U,Onc thyr dna&mrna 112 genes,Other clinical laboratory services
+0027U,Jak2 gene trgt seq alys,Other clinical laboratory services
+0029U,Rx metab advrs trgt seq alys,Other clinical laboratory services
+0030U ,Rx metab warf trgt seq alys,Other clinical laboratory services
+0031U,Cypia2 gene,Other clinical laboratory services
+0032U,Comt gene,Other clinical laboratory services
+0033U,Htr2a htr2c genes,Other clinical laboratory services
+0034U,Tpmt nudt15 genes,Other clinical laboratory services
+0035U,Neuro csf prion prtn qual,Other clinical laboratory services
+0036U,Xome tum & nml spec seq alys,Other clinical laboratory services
+0037U,Trgt gen seq rgt gen seq dna 324 genes,Other clinical laboratory services
+0038U ,Vitamin d srm microsamp quan,Other clinical laboratory services
+0039U,Dna antb 2strand hi avidity,Other clinical laboratory services
+0040U ,Bcr/abl1 gene major bp quan,Other clinical laboratory services
+0041U,B brgdrferi antb 5 prtn igm,Other clinical laboratory services
+0042U,B brgdrferi antb 12 prtn igg,Other clinical laboratory services
+0043U,Tbrg b grp antb 4 prtn igm,Other clinical laboratory services
+0044U ,Tbrf b grp antb 4 prtn igg,Other clinical laboratory services
+0045U,Onc brst dux carc is 12 gene,Other clinical laboratory services
+0046U,Flt3 genie itd variants quan,Other clinical laboratory services
+0047U ,Onc prst8 mrna 17 gene alg,Other clinical laboratory services
+0048U ,Onc sld org neo dna 468 gene,Other clinical laboratory services
+0049U,Npm1 gene analysis quan,Other clinical laboratory services
+0050U,Trgt gen seq dna 194 genes,Other clinical laboratory services
+0051U ,Rx mntr lc-ms/ms ur 31 pnl,Other clinical laboratory services
+0052U,Lpoprtn bld w/5 maj classes,Other clinical laboratory services
+0054U,Rx mntr 14+ drugs & sbsts,Other clinical laboratory services
+0055U,Card hrt trnspl 96 dna seq,Other clinical laboratory services
+0058U,Onc merkel cll carc srm quan,Other clinical laboratory services
+0059U,Onc merkel cll carc srm+/-,Other clinical laboratory services
+0060U ,Twn zyg gen seq alys chrms2,Other clinical laboratory services
+0061U,Tc meas 5 bmrk sfdi m-s alys,Other clinical laboratory services
+0095U,Ee&mj bsc prtn elisa est dev,Other clinical laboratory services
+0153U,Onc breast mrna 101 genes ,Other clinical laboratory services
+0154U ,Onc urthl ca rna fgfr3 gene,Other clinical laboratory services
+0155U,Onc brst ca dna pik3ca gene,Other clinical laboratory services
+0172U,Onc sld tum alys brca1 brca2,Other clinical laboratory services
+0174U,Onc solid tumor 30 prtn trgt,Other clinical laboratory services
+0177U,Onc brst ca dna pik3ca 11,Other clinical laboratory services
+0179U,Onc nonsm cll lng ca alys 23,Other clinical laboratory services
+0202U,Nfct ds 22 trgt sars-cov-2,Other clinical laboratory services
+0204U,Onc thyr mrna xprsn alys 593,Other clinical laboratory services
+0223U,Nfct ds 22 trgt sars-cov-2 ,Other clinical laboratory services
+0224U,Antibody sars-cov-2 titer(s),Other clinical laboratory services
+0225U,Nfct ds dna&rna 21 sarscov2,Other clinical laboratory services
+0226U,Svnt sarscov2 elisa plsm srm,Other clinical laboratory services
+0229U  ,Bcat1&ikzf1 prmtr mthln alys,Other clinical laboratory services
+0230U  ,Ar full sequence analysis,Other clinical laboratory services
+0231U,Cacna1a full gene analysis,Other clinical laboratory services
+0232U,Cstb full gene analysis,Other clinical laboratory services
+0233U ,Fxn gene analysis,Other clinical laboratory services
+0234U,Mecp2 full gene analysis,Other clinical laboratory services
+0235U,Pten full gene analysis,Other clinical laboratory services
+0236U,Smn1&smn2 full gene analysis,Other clinical laboratory services
+0237U,Car ion chnlpthy gen seq pnl,Other clinical laboratory services
+0238U,Onc lnch syn gen dna seq aly,Other clinical laboratory services
+0239U,Trgt gen seq alys pnl 311+,Other clinical laboratory services
+0240U,Nfct ds vir resp rna 3 trgt,Other clinical laboratory services
+0241U,Nfct ds vir resp rna 4 trgt,Other clinical laboratory services
+0242U,Trgt gen seq alys pnl 55-74,Other clinical laboratory services
+0244U ,Onc solid orgn dna 257 genes,Other clinical laboratory services
+0245U,Onc thyr mut alys 10 gen&37,Other clinical laboratory services
+0246U,Rbc dna gnotyp 16 bld groups,Other clinical laboratory services
+0250U,Onc sld org neo dna 505 gene,Other clinical laboratory services
+0258U,Ai psor mrna 50-100 gen alg,Other clinical laboratory services
+0260U,Rare ds id opt genome mapg,Other clinical laboratory services
+0261U,Onc clrct ca img alys w/ai,Other clinical laboratory services
+0262U ,Onc sld tum rtpcr 7 gen,Other clinical laboratory services
+0264U,Rare ds id opt genome mapg,Other clinical laboratory services
+0265U ,Rar do whl gn&mtcdrl dna als,Other clinical laboratory services
+0266U,Unxpl cnst hrtbl do gn xprsn,Other clinical laboratory services
+0267U,Rare do id opt gen mapg&seq,Other clinical laboratory services
+0268U ,Hem ahus gen seq alys 15 gen,Other clinical laboratory services
+0269U ,Hem aut dm cgen trmbctpna 22,Other clinical laboratory services
+0270U,Hem cgen coagj do 20 genes,Other clinical laboratory services
+0271U,Hem cgen neutropenia 24 gen,Other clinical laboratory services
+0272U,Hem genetic bld do 60 genes,Other clinical laboratory services
+0273U,Hem gen hyprfibrnlysis 8 gen,Other clinical laboratory services
+0274U,Hem gen pltlt do 62 genes,Other clinical laboratory services
+0276U,Hem inh thrombocytopenia 42,Other clinical laboratory services
+0277U ,Hem gen pltlt funcj do 40,Other clinical laboratory services
+0278U,Hem gen thrombosis 14 genes,Other clinical laboratory services
+0282U,Rbc dna gntyp 12 bld grp gen,Other clinical laboratory services
+0287U,Onc thyr dna&mrna 112 genes,Other clinical laboratory services
+0288U,Onc lung mrna quan pcr 11&3,Other clinical laboratory services
+0305U,Hem rbc fnclty&dfrm shr strs,Other clinical laboratory services
+0306U,Onc mrd nxt-gnrj alys 1st,Other clinical laboratory services
+0307U,Onc mrd nxt-gnrj alys sbsq,Other clinical laboratory services
+0308U,Crd cad alys 3 prtn 3 param,Other clinical laboratory services
+0313U,Onc pncrs dna&mrna seq 74,Other clinical laboratory services
+0314U,Onc cutan mlnma mrna 35 gene,Other clinical laboratory services
+0315U,Onc cutan sq cll ca mrna 40,Other clinical laboratory services
+0317U,Onc lung ca 4-prb fish assay,Other clinical laboratory services
+0318U,Ped whl gen mthyltn alys 50+,Other clinical laboratory services
+0332U,Onc pan tum gen prflg 8 dna,Other clinical laboratory services
+0334U,Onc sld orgn tgsa dna 84/+,Other clinical laboratory services
+0335U,Rare ds whl gen seq feta,Other clinical laboratory services
+0336U,Rare ds whl gen seq bld/slv,Other clinical laboratory services
+0337U,Onc plsm cell do&myeloma id,Other clinical laboratory services
+0338U,Onc sld tum crcg tum cl slct,Other clinical laboratory services
+0339U,Onc prst8 mrna hoxc6 & dlx1,Other clinical laboratory services
+0340U,Onc pan ca alys mrd plasma,Other clinical laboratory services
+0341U,Ftl aneup dna seq cmpr alys,Other clinical laboratory services
+0342U,Onc pncrtc ca mult ia eclia,Other clinical laboratory services
+0343U,Onc prst8 xom aly 442 sncrna,Other clinical laboratory services
+0344U,Hep nafld semiq evl 28 lipid,Other clinical laboratory services
+0345U,Psyc genom alys pnl 15 gen,Other clinical laboratory services
+0346U,Beta amyl ab40&ab42 lc-ms/ms,Other clinical laboratory services
+0347U,Rx metab/pcx dna 16 gen alys,Other clinical laboratory services
+0348U,Rx metab/pcx dna 25 gen alys,Other clinical laboratory services
+0349U,Rx metab/pcx dna 27gen rx ia,Other clinical laboratory services
+0350U,Rx metab/pcx dna 27 gen alys,Other clinical laboratory services
+0351U,Nfct ds bct/viral trail ip10,Other clinical laboratory services
+0352U,Nfct ds bv&vaginitis amp prb,Other clinical laboratory services
+0353U,Iadna chlmyd&gonorr amp prb,Other clinical laboratory services
+0354U,Hpv hi rsk qual mrna e6/e7,Other clinical laboratory services
+0355U,Apol1 risk variants,Other clinical laboratory services
+0356U,Onc orop 17 dna ddpcr alg,Other clinical laboratory services
+0358U,Neuro alys ?-amyl 1-42&1-40,Other clinical laboratory services
+0359U,Onc prst8 ca alys all psa,Other clinical laboratory services
+0360U,Onc lung elisa 7 autoant alg,Other clinical laboratory services
+0361U,Neurflmnt lt chn dig ia quan,Other clinical laboratory services
+0362U,Onc pap thyr ca rna 82&10,Other clinical laboratory services
+0363U,Onc urthl mrna 5 gen alg,Other clinical laboratory services
+0364U,Onc hl neo gen seq alys alg,Other clinical laboratory services
+0365U,Onc bldr 10 prb bldr ca,Other clinical laboratory services
+0366U,Onc bldr 10 prb recr bldr ca,Other clinical laboratory services
+0367U,Onc bldr 10 flwg trurl rescj,Other clinical laboratory services
+0369U,Iadna gi pthgn 31 org&21 arg,Other clinical laboratory services
+0370U,Iadna surg wnd pthgn 34&21,Other clinical laboratory services
+0371U,Iadna gu pthgn semiq dna16&1,Other clinical laboratory services
+0372U,Nfct ds gu pthgn arg detcj,Other clinical laboratory services
+0373U,Iadna rsp tr nfct 17 8 13&16,Other clinical laboratory services
+0374U,Iadna gu pthgn 21 org&21arg,Other clinical laboratory services
+0375U,Onc ovrn bchm asy 7 prtn alg,Other clinical laboratory services
+0376U,Onc prst8 ca img alys 128,Other clinical laboratory services
+0377U,Cv ds quan advsrm/plsm lprtn,Other clinical laboratory services
+0378U,Rfc1 repeat xpnsj vrnt alys,Other clinical laboratory services
+0379U,Tgsap sl or neo dna523&rna55 ,Other clinical laboratory services
+0380U,Rx metb advrs trgt sq aly 20,Other clinical laboratory services
+0381U,Maple syrup ur ds mntr quan,Other clinical laboratory services
+0382U,Hyprphenylalninmia mntr quan,Other clinical laboratory services
+0383U,Tyrosinemia typ i mntr quan,Other clinical laboratory services
+0384U,Neph ckd rsk hi stg kdn ds,Other clinical laboratory services
+0385U,Neph ckd alg rsk dbtc kdn ds,Other clinical laboratory services
+0387U,Onc mlnma ambra1&amlo,Other clinical laboratory services
+0388U,Onc nonsm cll lng ca 37 gen,Other clinical laboratory services
+0389U,Ped fbrl kd ifi27&mcemp1 rna,Other clinical laboratory services
+0390U,Ob pe kdr eng&rbp4 ia alg,Other clinical laboratory services
+0391U,Onc sld tum dna&rna 437 gen,Other clinical laboratory services
+0392U,Rx metab genrx ia 16 genes,Other clinical laboratory services
+0393U,Neu prksn msfl a-syncln prtn,Other clinical laboratory services
+0394U,Pfas 16 pfas compnd lc ms/ms,Other clinical laboratory services
+0395U,Onc lng multiomics plsm alg,Other clinical laboratory services
+0396U,Ob preimpltj tst 300000 dna,Other clinical laboratory services
+0398U,Gi baret esph dna mthyln aly,Other clinical laboratory services
+0399U,Neuro cere folate defncy srm,Other clinical laboratory services
+0400U,Ob xpnd car scr 145 genes,Other clinical laboratory services
+0401U,Crd c hrt ds 9 gen 12 vrnts,Other clinical laboratory services
+0402U,Nfct agt sti mult amp prb tq,Other clinical laboratory services
+0403U,Onc prst8 mrna 18 gen dre ur,Other clinical laboratory services
+0404U,Onc brst semiq meas thym kn,Other clinical laboratory services
+0405U,Onc pncrtc 59 mthltn blk mrk,Other clinical laboratory services
+0406U,Onc lung flow cytmtry 5 mrk,Other clinical laboratory services
+0407U,Neph dbtc ckd mult eclia alg,Other clinical laboratory services
+0408U,Iaad blk ac wv bsnsr sarscv2,Other clinical laboratory services
+0409U,Onc sld tum dna 80 & rna 36,Other clinical laboratory services
+0410U,Onc pncrtc dna whl gn seq 5-,Other clinical laboratory services
+0411U,Psyc genom alys pnl 15 gen,Other clinical laboratory services
+0412U,Beta amyloid ab42/40 imprcip,Other clinical laboratory services
+0413U,Onc hl neo opt gen mapg dna,Other clinical laboratory services
+0414U,Onc lng aug alg aly whl sld8,Other clinical laboratory services
+0415U,Cv ds acs bld alg 5 yr score,Other clinical laboratory services
+0416U,Iadna gu pthgn 20bct&fng org,Other clinical laboratory services
+0417U,Rare ds alys 335 nuc genes,Other clinical laboratory services
+0418U,Onc brst aug alg aly whl sl8,Other clinical laboratory services
+0419U,Nrpsyc gen seq vrnt aly 13,Other clinical laboratory services
+0420U,Onc urthl mrna xprsn 6 snp,Other clinical laboratory services
+0421U,Onc clrct scr sgl amp 8 rna,Other clinical laboratory services
+0422U,Onc pan solid tum alys dna,Other clinical laboratory services
+0423U,Psyc genomic alys pnl 26 gen,Other clinical laboratory services
+0424U,Onc prst8 xom alys 53 sncrna,Other clinical laboratory services
+0425U,Genom rpd seq alys ea cmprtr,Other clinical laboratory services
+0426U,Genome ultra-rapid seq alys,Other clinical laboratory services
+0427U,Monocyte dstrbj wdth whl bld,Other clinical laboratory services
+0428U,Onc brst ctdna alys 56/> gen,Other clinical laboratory services
+0429U,Hpv orop swab 14 hi-risk typ,Other clinical laboratory services
+0430U,Gi malabs aat calpro pncrtc,Other clinical laboratory services
+0431U,Gly rcptr alpha1 igg srm/csf,Other clinical laboratory services
+0432U,Klhl11 antb sr/csf asy qual,Other clinical laboratory services
+0433U,Onc prst8 5 dna reg mrk pcr,Other clinical laboratory services
+0434U,Rx metab advrs vrnt alys 25,Other clinical laboratory services
+0435U,Onc chemo rx cytox csc 14 rx,Other clinical laboratory services
+0436U,Onc lng plsm alys 388 prtn,Other clinical laboratory services
+0437U,Psyc anxiety do mrna 15 bmrk,Other clinical laboratory services
+0438U,Rx metab advrs vrnt alys 33,Other clinical laboratory services
+36415,Routine venipuncture,Other clinical laboratory services
+78110,Plasma volume single,Other clinical laboratory services
+78111,Plasma volume multiple,Other clinical laboratory services
+78120,Red cell mass single,Other clinical laboratory services
+78121,Red cell mass multiple,Other clinical laboratory services
+78122,Blood volume,Other clinical laboratory services
+78130,Red cell survival study,Other clinical laboratory services
+78191,Platelet survival,Other clinical laboratory services
+78267,Breath tst attain/anal c-14,Other clinical laboratory services
+78268,Breath test analysis c-14,Other clinical laboratory services
+78725,Kidney function study,Other clinical laboratory services
+G0027,Semen analysis ,Other clinical laboratory services
+G0103,Psa screening,Other clinical laboratory services
+G0123,Screen cerv/vag thin layer,Other clinical laboratory services
+G0124,Screen c/v thin layer by MD,Other clinical laboratory services
+G0141,"Scr c/v cyto,autosys and md",Other clinical laboratory services
+G0143,"Scr c/v cyto,thinlayer,rescr",Other clinical laboratory services
+G0144,"Scr c/v cyto,thinlayer,rescr",Other clinical laboratory services
+G0145 ,"Scr c/v cyto,thinlayer,rescr",Other clinical laboratory services
+G0147,"Scr c/v cyto, automated sys",Other clinical laboratory services
+G0148,"Scr c/v cyto, autosys, rescr",Other clinical laboratory services
+G0306,CBC/diffwbc w/o platelet,Other clinical laboratory services
+G0307,Cbc without platelet ,Other clinical laboratory services
+G0328,Fecal blood scrn immunoassay,Other clinical laboratory services
+G0416,"Prostate biopsy, any mthd",Other clinical laboratory services
+G0432,Eia hiv-1/hiv-2 screen,Other clinical laboratory services
+G0433,Elisa hiv-1/hiv-2 screen,Other clinical laboratory services
+G0435,Oral hiv-1/hiv-2 screen,Other clinical laboratory services
+G0475 ,Hiv combination assay ,Other clinical laboratory services
+G0476,Hpv combo assay ca screen,Other clinical laboratory services
+G0480,Drug test def 1-7 classes,Other clinical laboratory services
+G0481,Drug test def 8-14 classes,Other clinical laboratory services
+G0482,Drug test def 15-21 classes,Other clinical laboratory services
+G0483,Drug test def 22+ classes,Other clinical laboratory services
+G9143,Warfarin respon genetic test,Other clinical laboratory services
+P2028,Cephalin floculation test,Other clinical laboratory services
+P2029,Congo red blood test,Other clinical laboratory services
+P2033,Blood thymol turbidity ,Other clinical laboratory services
+P2038,Blood mucoprotein,Other clinical laboratory services
+P3000,Screen pap by tech w md supv,Other clinical laboratory services
+P3001,Screening pap smear by phys,Other clinical laboratory services
+P9612,Catheterize for urine spec,Other clinical laboratory services
+P9615,Urine specimen collect mult ,Other clinical laboratory services
+Q0111,Wet mounts/ w preparations,Other clinical laboratory services
+Q0112,Potassium hydroxide preps,Other clinical laboratory services
+Q0113,Pinworm examinations,Other clinical laboratory services
+Q0114,Fern test,Other clinical laboratory services
+Q0115,Post-coital mucous exam,Other clinical laboratory services
+U0001,2019-ncov diagnostic p,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+U0002,Covid-19 lab test non-cdc,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+90901,Biofeedback train any meth,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+90912,Bfb training 1st 15 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+90913,Bfb training ea addl 15 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92507,Speech/hearing therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92508,Speech/hearing therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92520,Laryngeal function studies,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92521,Evaluation of speech fluency,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92522,Evaluate speech production,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92523,Speech sound lang comprehen,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92524,Behavral qualit analys voice,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92526,Oral function therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92597,Oral speech device eval,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92607,Ex for speech device rx 1hr,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92608,Ex for speech device rx addl,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92609,Use of speech device service,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92610,Evaluate swallowing function,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92611,Motion fluoroscopy/swallow,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92612,Endoscopy swallow tst (fees),"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92614,Laryngoscopic sensory test,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+92616,Fees w/laryngeal sense test,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+93797,Cardiac rehab,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+93798,Cardiac rehab/monitor,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+95851,Range of motion measurements,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+95852,Range of motion measurements,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+95992,Canalith repositioning proc,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+96000,Motion analysis video/3d,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+96001,Motion test w/ft press meas,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+96002,Dynamic surface emg,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+96003,Dynamic fine wire emg,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+96105,Assessment of aphasia ,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+96125,Cognitive test by HC pro,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97010,Hot or cold packs therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97012,Mechanical traction therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97016,Vasopneumatic device therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97018,Paraffin bath therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97022,Whirlpool therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97024,Diathermy eg microwave,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97026,Infrared therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97028,Ultraviolet therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97032,Electrical stimulation,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97033,Electric current therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97034,Contrast bath therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97035,Ultrasound therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97036,Hydrotherapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97039,Physical therapy treatment,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97110,Therapeutic exercises,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97112,Neuromuscular reeducation,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97113,Aquatic therapy/exercises,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97116,Gait training therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97124,Massage therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97129,Ther ivntj 1st 15 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97130,Ther ivntj ea addl 15 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97139,Physical medicine procedure,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97140,Manual therapy,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97150,Group therapeutic procedures,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97161,Pt eval low complex 20 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97162,Pt eval mod complex 30 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97163,Pt eval high complex 45 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97164,Pt re-eval est plan care,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97165,Ot eval low complex 30 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97166,Ot eval mod complex 45 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97167,Ot eval high complex 60 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97168,Ot re-eval est plan care,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97530,Therapeutic activities,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97533,Sensory integration,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97535,Self care mngment training,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97537,Community/work reintegration,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97542,Wheelchair mngment training,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97545,Work hardening,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97546,Work hardening add-on,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97550,Caregiver traing 1st 30 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97551,Caregiver traing ea addl 15,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97552,Group caregiver training,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97597,RMVL devital tis 20cm/<,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97598,RMVL devital tis addl 20 cm<,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97602,Wound(s) care non-selective,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97605,Neg press wound tx < 50 cm,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97606,Neg press wound tx > 50 cm,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97607,Neg press wnd tx </=50 sq cm,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97608,Neg press wound tx >50 cm,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97610,Low frequency non-thermal US,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97750,Physical performance test,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97755,Assistive technology assess,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97760,Orthotic mgmt&trainj 1st enc ,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97761,Prosthetic trainj 1st enc,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97763,Orth/prostc mgmt sbsq enc,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+97799,Physical medicine procedure,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98966,Hc pro phone call 5-10 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98967,Hc pro phone call 11-20 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98968,Hc pro phone call 21-30 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98970,Qnhp ol dig assmt&mgmt 5-10,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98971,Qnhp ol dig assmt&mgmt 11-20 ,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98972,Qnhp ol dig assmt&mgmt 21+,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98975,Rem ther mntr 1st setup&edu,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98976,Rem ther mntr dev sply resp,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98977,Rem ther mntr dv sply mscskl,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98980,Rem ther mntr 1st 20 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+98981,Rem ther mntr ea addl 20 min,"PHYSICAL THERAPY, OCCUPATIONAL THERAPY, AND OUTPATIENT SPEECH-LANGUAGE PATHOLOGY SERVICES"
+G0281,Elec stim unattend for press,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+G0283,Elec stim other than wound,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+G0329,Electromagntic tx for ulcers,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+G0451,Development test interp & rep,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+G2250,"Remot img sub by pt, non e/m",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+G2251,"Brief chkin, 5-10, non-e/m",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0042T,Ct perfusion w/contrast cbf,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0174T,Cad cxr with interp,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0175T,Cad cxr remote,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0330T,Tear film img uni/bi w/i&r,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0331T,Heart symp image plnr,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0332T,Heart symp image plnr spect,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0422T,Tactile breast img uni/bi,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0558T,Ct scan f/biomchn ct alys,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0633T,Ct breast w/3d uni c-,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0634T,Ct breast w/3d uni c+,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0635T,Ct breast w/3d uni c-/c+,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0636T,Ct breast w/3d bi c-,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0637T,Ct breast w/3d bi c+,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0638T,Ct breast w/3d bi c-/c+,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0721T,Quan ct tiss charac w/o ct,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0722T,Quan ct tiss charac w/ct,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0723T,Qmrcp w/o dx mri sm anat ses,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0724T,Qmrcp w/dx mri same anatomy,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0815T,Us rems b1 dns hips plvs/spi,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0857T,Opto-acoustic img breast uni,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0865T,Quan mri alys brn w/o dx mri,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+0866T,Quan mri alys brn w/dx mri,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+51798,Us urine capacity measure,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70100,X-ray exam of jaw,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70110,X-ray exam of jaw,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70120,X-ray exam of mastoids,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70130,X-ray exam of mastoids,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70134,X-ray exam of middle ear,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70140,X-ray exam of facial bones,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70150,X-ray exam of facial bones,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70160,X-ray exam of nasal bones,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70190,X-ray exam of eye sockets,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70200,X-ray exam of eye sockets,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70210,X-ray exam of sinuses,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70220,X-ray exam of sinuses,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70240,X-ray exam pituitary saddle,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70250,X-ray exam of skull,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70260,X-ray exam of skull,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70300,X-ray exam of teeth,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70310,X-ray exam of teeth,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70320,Full mouth x-ray of teeth,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70328,X-ray exam of jaw joint,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70330,X-ray exam of jaw joints,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70336,Magnetic image jaw joint,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70350,X-ray head for orthodontia,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70355,Panoramic x-ray of jaws,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70360,X-ray exam of neck,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70370,Throat x-ray & fluoroscopy,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70371,Speech evaluation complex,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70380,X-ray exam of salivary gland,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70450,Ct head/brain w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70460,Ct head/brain w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70470,Ct head/brain w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70480,Ct orbit/ear/fossa w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70481,Ct orbit/ear/fossa w/dye ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70482,Ct orbit/ear/fossa w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70486,Ct maxillofacial w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70487,Ct maxillofacial w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70488,Ct maxillofacial w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70490,Ct soft tissue neck w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70491,Ct soft tissue neck w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70492,Ct sft tsue nck w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70496,Ct angiography head,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70498,Ct angiography neck,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70540,Mri orbit/face/neck w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70542,Mri orbit/face/neck w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70543,Mri orbt/fac/nck w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70544,Mr angiography head w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70545,Mr angiography head w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70546,Mr angiograph head w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70547,Mr angiography neck w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70548,Mr angiography neck w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70549,Mr angiograph neck w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70551,Mri brain w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70552,Mri brain w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70553,Mri brain w/o & w/dye ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70554,Fmri brain by tech,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+70555,Fmri brain by phys/psych,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71045,X-ray exam chest 1 view,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71046,X-ray exam chest 2 views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71047,X-ray exam chest 3 views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71048,X-ray exam chest 4+ views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71100,X-ray exam of ribs,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71101,X-ray exam of ribs/chest,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71110,X-ray exam of ribs,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71111,X-ray exam of ribs/chest,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71120,X-ray exam of breastbone,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71130,X-ray exam of breastbone,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71250,Ct thorax dx c- ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71260,Ct thorax dx c+ ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71270,Ct thorax dx c-/c+ ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71271,Ct thorax lung cancer scr c-,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71275,Ct angiography chest,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71550,Mri chest w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71551,Mri chest w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71552,Mri chest w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+71555,Mri angio chest w or w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72020,X-ray exam of spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72040,X-ray exam neck spine 3/<vws,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72050,X-ray exam of neck spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72052,X-ray exam of neck spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72070,X-ray exam of thoracic spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72072,X-ray exam of thoracic spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72074,X-ray exam of thoracic spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72080,X-ray exam of trunk spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72081,X-ray exam entire spi 1 vw,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72082,X-ray exam entire spi 2/3 vw,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72083,X-ray exam entire spi 4/5 vw,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72084,X-ray exam entire spi 6/> vw,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72100,X-ray exam of lower spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72110,X-ray exam of lower spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72114,X-ray exam of lower spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72120,X-ray exam of lower spine,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72125,Ct neck spine w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72126,Ct neck spine w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72127,Ct neck spine w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72128,Ct chest spine w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72129,Ct chest spine w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72130,Ct chest spine w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72131,Ct lumbar spine w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72132,Ct lumbar spine w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72133,Ct lumbar spine w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72141,Mri neck spine w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72142,Mri neck spine w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72146,Mri chest spine w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72147,Mri chest spine w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72148,Mri lumbar spine w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72149,Mri lumbar spine w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72156,Mri neck spine w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72157,Mri chest spine w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72158,Mri lumbar spine w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72159,Mr angio spine w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72170,X-ray exam of pelvis,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72190,X-ray exam of pelvis,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72191,Ct angiograph pelv w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72192,Ct pelvis w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72193,Ct pelvis w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72194,Ct pelvis w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72195,Mri pelvis w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72196,Mri pelvis w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72197,Mri pelvis w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72198,Mr angio pelvis w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72200,X-ray exam sacroiliac joints,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72202,X-ray exam sacroiliac joints,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+72220,X-ray exam of tailbone,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73000,X-ray exam of collar bone,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73010,X-ray exam of shoulder blade,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73020,X-ray exam of shoulder,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73030,X-ray exam of shoulder,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73050,X-ray exam of shoulders,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73060,X-ray exam of humerus,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73070,X-ray exam of elbow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73080,X-ray exam of elbow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73090,X-ray exam of forearm,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73092,X-ray exam of arm infant,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73100,X-ray exam of wrist,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73110,X-ray exam of wrist,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73120,X-ray exam of hand,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73130,X-ray exam of hand,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73140,X-ray exam of finger(s),RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73200,Ct upper extremity w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73201,Ct upper extremity w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73202,Ct uppr extremity w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73206,Ct angio upr extrm w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73218,Mri upper extremity w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73219,Mri upper extremity w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73220,Mri uppr extremity w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73221,Mri joint upr extrem w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73222,Mri joint upr extrem w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73223,Mri joint upr extr w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73225,Mr angio upr extr w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73501,X-ray exam hip uni 1 view,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73502,X-ray exam hip uni 2-3 views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73503,X-ray exam hip uni 4/> views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73521,X-ray exam hips bi 2 views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73522,X-ray exam hips bi 3-4 views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73523,X-ray exam hips bi 5/> views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73551,X-ray exam of femur 1,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73552,X-ray exam of femur 2/>,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73560,X-ray exam of knee 1 or 2,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73562,X-ray exam of knee 3,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73564,X-ray exam knee 4 or more,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73565,X-ray exam of knees,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73590,X-ray exam of lower leg,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73592,X-ray exam of leg infant,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73600,X-ray exam of ankle,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73610,X-ray exam of ankle,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73620,X-ray exam of foot,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73630,X-ray exam of foot,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73650,X-ray exam of heel,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73660,X-ray exam of toe(s),RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73700,Ct lower extremity w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73701,Ct lower extremity w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73702,Ct lwr extremity w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73706,Ct angio lwr extr w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73718,Mri lower extremity w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73719,Mri lower extremity w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73720,Mri lwr extremity w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73721,Mri jnt of lwr extre w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73722,Mri joint of lwr extr w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73723,Mri joint lwr extr w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+73725,Mr ang lwr ext w or w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74018,X-ray exam abdomen 1 view,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74019,X-ray exam abdomen 2 views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74021,X-ray exam abdomen 3+ views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74022,X-ray exam complete abdomen,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74150,Ct abdomen w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74160,Ct abdomen w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74170,Ct abdomen w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74174,Ct angio abd&pelv w/o&w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74175,Ct angio abdom w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74176,Ct abd & pelvis,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74177,Ct abd & pelv w/contrast,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74178,Ct abd & pelv 1/>regns,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74181,Mri abdomen w/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74182,Mri abdomen w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74183,Mri abdomen w/o & w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74185,Mri angio abdom w orw/o dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74210,X-ray xm phrnx&/crv esoph c+,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74220,X-ray xm esophagus 1cntrst,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74221,X-ray xm esophagus 2cntrst,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74230,X-ray xm swlng funcj c+,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74240,X-ray xm upr gi trc 1cntrst,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74246,X-ray xm upr gi trc 2cntrst,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74248,X-ray sm int f-thru std,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74250,X-ray xm sm int 1cntrst std,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74251,X-ray xm sm int 2cntrst std,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74270,X-ray xm colon 1cntrst std,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74280,X-ray xm colon 2cntrst std,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74261,Ct colonography dx,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74262,Ct colonography dx w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74290,Contrast x-ray gallbladder,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+74712,Mri fetal sngl/1st gestation,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75557,Cardiac MRI for morph,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75559,Cardiac MRI w/stress img,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75561,Cardiac MRI for morph w/dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75563,Card MRI w/stress img & dye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75565,Card MRI veloc flow mapping,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75571,Ct hrt w/o dye w/ca test,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75572,Ct hrt w/3d image,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75573,Ct hrt w/3d image congen,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75574,Ct angio hrt w/3d image,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+75635,Ct angio abdominal arteries,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76000,Fluoroscopy <1 hr phys/qhp ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76010,X-ray nose to rectum,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76100,X-ray exam of body section,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76120,Cine/video x-rays,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76125,Cine/video x-rays add-on,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76376,3d render w/o postprocess,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76377,3d rendering w/postprocess,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76380,CAT scan follow-up study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76391,Mr elastography,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76499,Radiographic procedure,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76506,Echo exam of head,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76510,Ophth us b & quant a,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76511,Ophth us quant a only,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76512,Ophth us b w/non-quant a,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76513,Oph us dx ant sgm us uni/bi,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76514,Echo exam of eye thickness,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76516,Echo exam of eye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76519,Echo exam of eye,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76536,Us exam of head and neck,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76604,Us exam chest,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76641,Ultrasound breast complete,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76642,Ultrasound breast limited,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76700,Us exam abdom complete,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76705,Echo exam of abdomen,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76706,Us abdl aorta screen aaa,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76770,Us exam abdo back wall comp,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76775,Us exam abdo back wall lim,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76776,Us exam k transpl w/Doppler,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76800,Us exam spinal canal,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76801,Ob us < 14 wks single fetus,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76802,Ob us < 14 wks addl fetus,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76805,Ob us >/= 14 wks sngl fetus,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76810,Ob us >/= 14 wks addl fetus,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76811,Ob us detailed sngl fetus,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76812,Ob us detailed addl fetus,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76815,Ob us limited fetus(s),RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76816,Ob us follow-up per fetus,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76818,Fetal biophys profile w/nst,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76819,Fetal biophys profil w/o nst,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76820,Umbilical artery echo,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76821,Middle cerebral artery echo,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76825,Echo exam of fetal heart,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76826,Echo exam of fetal heart,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76827,Echo exam of fetal heart,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76828,Echo exam of fetal heart,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76856,Us exam pelvic complete,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76857,Us exam pelvic limited,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76870,Us exam scrotum,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76881,Us compl joint r-t w/img ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76882,US LMTD JT/FCL EVL NVASC XTR,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76883,Us nrv&acc strux 1xtr compre,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76885,Us exam infant hips dynamic,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76886,Us exam infant hips static,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76977,Us bone density measure,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76978,Us trgt dyn mbubb 1st les,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76979,Us trgt dyn mbubb ea addl,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76981,Use parenchyma,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76982,Use 1st target lesion,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76983,Use ea addl target lesion,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76984,Dx intraop thoracic aorta us,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76987,Dx intraop epicar car us chd,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76988,Dx ntrop epcr us chd img acq,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76989,Dx intraop epcar us chd i&r,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+76999,Echo examination procedure,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77046,Mri breast c-unilateral,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77047,Mri breast c-bilateral,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77048,Mri breast c-+ w/cad uni,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77049,Mri breast c-+ w/cad bi,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77061,Breast tomosynthesis uni,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77062,Breast tomosynthesis bi,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77065,Dx mammo incl cad uni,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77066,Dx mammo incl cad bi,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77071,X-ray stress view,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77072,X-rays for bone age,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77073,X-rays bone length studies,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77074,X-rays bone survey limited,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77075,X-rays bone survey complete,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77076,X-rays bone survey infant,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77077,Joint survey single view,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77078,Ct bone density axial,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77080,Dxa bone density axial,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77081,Dxa bone density/peripheral,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77084,Magnetic image bone marrow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77085,Dxa bone density study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77086,Fracture assessment via dxa,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+77089,Tbs dxa cal w/i&r fx risk,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78012,Thyroid uptake measurement ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78013,Thyroid imaging w/blood flow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78014,Thyroid imaging w/blood flow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78015,Thyroid met imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78016,Thyroid met imaging/studies,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78018,Thyroid met imaging body,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78020,Thyroid met uptake,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78070,Parathyroid nuclear imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78071,Parathyrd planar w/wo subtrj,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78072,Parathyrd planar w/spect&ct,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78075,Adrenal nuclear imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78099,Endocrine nuclear procedure,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78102,Bone marrow imaging ltd,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78103,Bone marrow imaging mult,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78104,Bone marrow imaging body,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78140,Red cell sequestration,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78185,Spleen imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78195,Lymph system imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78199,Blood/lymph nuclear exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78201,Liver imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78202,Liver imaging with flow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78215,Liver and spleen imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78216,Liver & spleen image/flow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78226,Hepatobiliary system imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78227,Hepatobil syst image w/drug,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78230,Salivary gland imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78231,Serial salivary imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78232,Salivary gland function exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78258,Esophageal motility study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78261,Gastric mucosa imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78262,Gastroesophageal reflux exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78264,Gastric emptying study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78265,Gastric emptying imag study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78266,Gastric emptying imag study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78278,Acute GI blood loss imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78282,GI protein loss exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78290,Meckels divert exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78291,Leveen/shunt patency exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78299,GI nuclear procedure,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78300,Bone imaging limited area,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78305,Bone imaging multiple areas,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78306,Bone imaging whole body,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78315,Bone imaging 3 phase,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78399,Musculoskeletal nuclear exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78428,Cardiac shunt imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78429,Myocrd img pet 1 std w/ct,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78430,Myocrd img pet rst/strs w/ct,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78431,Myocrd img pet rst&strs ct,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78432,Myocrd img pet 2rtracer,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78433,Myocrd img pet 2rtracer ct,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78434,Aqmbf pet rest & rx stress,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78445,Vascular flow imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78451,Ht muscle image spect sing,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78452,Ht muscle image spect mult,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78453,Ht muscle image planar sing,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78454,Ht musc image planar mult,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78456,Acute venous thrombus image,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78457,Venous thrombosis imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78458,Ven thrombosis images bilat,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78459,Myocrd img pet single study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78466,Heart infarct image,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78468,Heart infarct image (ef),RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78469,Heart infarct image (3D),RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78472,Gated heart planar single,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78473,Gated heart multiple,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78481,Heart first pass single,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78483,Heart first pass multiple,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78491,Myocrd img pet 1std rst/strs,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78492,Myocrd img pet mlt rst&strs,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78494,Heart image spect,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78496,Heart first pass add-on,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78499,Cardiovascular nuclear exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78579,Lung ventilation imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78580,Lung perfusion imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78582,Lung ventilat&perfus imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78597,Lung perfusion differential,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78598,Lung perf&ventilat diferentl,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78599,Respiratory nuclear exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78600,Brain image < 4 views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78601,Brain image w/flow < 4 views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78605,Brain image 4+ views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78606,Brain image w/flow 4 + views,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78608,Brain imaging (PET),RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78610,Brain flow imaging only,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78630,Cerebrospinal fluid scan,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78635,CSF ventriculography,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78645,CSF shunt evaluation,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78650,CSF leakage imaging,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78660,Nuclear exam of tear flow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78699,Nervous system nuclear exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78700,Kidney imaging morphol,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78701,Kidney imaging with flow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78707,K flow/funct image w/o drug,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78708,K flow/funct image w/drug,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78709,K flow/funct image multiple,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78730,Urinary bladder retention,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78740,Ureteral reflux study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78761,Testicular imaging w/flow,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78799,Genitourinary nuclear exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78800,Rp loclzj tum 1 area 1 d img,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78801,Rp loclzj tum 2+area 1+d img,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78802,Rp loclzj tum whbdy 1 d img,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78803,Rp loclzj tum spect 1 area ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78804,Rp loclzj tum whbdy 2+d img,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78811,PET image ltd area,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78812,PET image skull-thigh,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78813,PET image full body,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78814,PET image w/ct lmtd,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78815,PET image w/ct skull-thigh,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78816,PET image w/ct full body,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+78999,Nuclear diagnostic exam,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+91110,Gi tract capsule endoscopy,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+91111,Esophageal capsule endoscopy,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+92132,Cpmtr ophth dx img ant segmt,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+92133,Cmptr ophth img optic nerve,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+92134,Cptr ophth dx img post segmt,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+92227,Img rta detcj/mntr ds staff,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+92228,Img rta detc/mntr ds phy/qhp,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+92229,Img rta detc/mntr ds poc aly ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93303,Echo transthoracic,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93304,Echo transthoracic,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93306,Tte w/doppler complete ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93307,Tte w/o doppler complete,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93308,Tte f-up or lmtd ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93320,Doppler echo exam heart [if used in conjunction with 93303-93304],RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93321,"Doppler echo exam heart [if used in conjunction with 93303, 93304, 93308]",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93325,"Doppler color flow add-on [if used in conjunction with 76825, 76826, 76827,76828, 93303, 93304, 93308]",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93356,Myocrd strain img spckl trck,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93880,Extracranial study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93882,Extracranial study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93886,Intracranial study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93888,Intracranial study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93890,Tcd vasoreactivity study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93892,Tcd emboli detect w/o inj,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93922,Upr/l xtremity art 2 levels,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93923,Upr/lxtr art stdy 3+ lvls,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93924,Lwr xtr vasc stdy bilat ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93925,Lower extremity study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93926,Lower extremity study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93930,Upper extremity study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93931,Upper extremity study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93970,Extremity study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93971,Extremity study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93975,Vascular study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93976,Vascular study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93978,Vascular study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93979,Vascular study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93980,Penile vascular study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93981,Penile vascular study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93990,Doppler flow testing,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+93998,Noninvas vasc dx study proc,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+97610,Low frequency non-thermal US,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A4641,Radiopharm dx agent noc,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A4642,In111 satumomab,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9500,Tc99m sestamibi,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9501,Technetium TC-99m teboroxime,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9502,Tc99m tetrofosmin,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9503,Tc99m medronate,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9504,Tc99m apcitide,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9505,TL201 thallium,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9507,In111 capromab,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9508,"I131 iodobenguate, dx",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9509,Iodine I-123 sod iodide mil,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9510,Tc99m disofenin,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9512,Tc99m pertechnetate,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9515,Choline c-11,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9516,Iodine I-123 sod iodide mic,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9520,Tc99 Tilmanocept diag 0.5mci,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9521,Tc99m exametazime,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9524,"I131 serum albumin, dx",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9526,Nitrogen N-13 ammonia,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9528,"Iodine I-131 iodide cap, dx",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9529,"I131 iodide sol, dx ",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9531,I131 max 100uCi,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9532,"I125 serum albumin, dx",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9536,TC99m depreotide,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9537,Tc99m mebrofenin,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9538,Tc99m pyrophosphate ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9539    ,Tc99m pentetate,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9540,Tc99m MAA,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9541     ,Tc99m sulfur colloid,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9542    ,"In111 ibritumomab, dx",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9546    ,CO57/58,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9547   ,In111 oxyquinoline,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9548    ,In111 pentetate,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9550   ,Tc99m gluceptate   ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9551,Tc99m succimer,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9552,F18 fdg,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9553,Cr51 chromate,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9554,"I125 iothalamate, dx",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9555,Rb82 rubidium,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9556,Ga67 gallium,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9557,Tc99m bicisate,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9558,Xe133 xenon 10mci,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9559,Co57 cyano,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9560,Tc99m labeled rbc,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9561,Tc99m oxidronate,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9562,Tc99m mertiatide,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9566,Tc99m fanolesomab,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9567,Technetium TC-99m aerosol,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9568,Technetium tc99m arcitumomab,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9569,Technetium TC-99m auto WBC,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9570,Indium In-111 auto WBC,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9571,Indium In-111 auto platelet,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9572,Indium In-111 pentetreotide,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9573,"Inj, gadopiclenol, 1 ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9576,Inj prohance multipack,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9577,Inj multihance,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9578,Inj multihance multipack,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9579,"Gad-base MR contrast NOS,1ml  ",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9580,Sodium fluoride F-18,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9584,Iodine I-123 ioflupane,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9586,Florbetapir F18,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9587,Gallium Ga-68,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9588,Fluciclovine f-18,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9591,Fluoroestradiol f 18 ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9592,Copper cu 64 dotatate diag,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9593,Gallium ga-68 psma-11 ucsf,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9594,"Gallium ga-68 psma-11, ucla",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9595,"Piflu f-18, dia 1 millicurie",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9596,Gallium illuccix 1 millicure,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9597,"Pet, dx, for tumor id, noc",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9598,"Pet dx for non-tumor id, noc",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9601,Flortaucipir inj 1 millicuri,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9602,Fluorodopa f-18 diag per mci,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9608,Flotufolastat f18 diag 1 mci,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9609,"F18 fdg, 15 millicuries",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9697,"Inj, magtrace per study dose",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9700,Echocardiography contrast,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+A9800,Gallium locametz 1 millicuri,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+C8937,Cad breast mri ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+C9067,Gallium ga-68 dotatoc,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+C9150,"Xe129 xenon, diagnostic",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+C9734,"U/s trtmt, not leiomyomata",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+C9762 ,Cardiac mri seg dys strain,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+C9763,Cardiac mri seg dys stress,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+C9786,Echo cad for hf preserved ef,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+C9791,MRI hyperpolarized xenon129,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+G0130,Single energy x-ray study,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+G0279,"Tomosynthesis, mammo screen",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+G0288,"Recon, cta for surg plan ",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q0092,Set up port xray equipment ,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9950,Inj sulf hexa lipid microsph,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9951,"LOCM>=400 mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9953,"Inj Fe-based MR contrast,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9954,"Oral MR contrast, 100ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9955,"Inj perflexane lip micros,ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9956,"Inj octafluoropropane mic,ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9957,"Inj perflutren lip micros,ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9958,"HOCM <=149 mg/ml iodine, 1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9959,"HOCM 150-199mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9960,"HOCM 200-249mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9961,"HOCM 250-299mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9962,"HOCM 300-349mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9963,"HOCM 350-399mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9964,"HOCM>= 400mg/ml iodine, 1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9965,"LOCM 100-199mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9966,"LOCM 200-299mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9967,"LOCM 300-399mg/ml iodine,1ml",RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9982,Flutemetamol f18 diagnostic,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+Q9983 ,Florbetaben f18 diagnostic,RADIOLOGY AND CERTAIN OTHER IMAGING SERVICES
+R0070,Transport portable x-ray,RADIATION THERAPY SERVICES AND SUPPLIES
+R0075,Transport port x-ray multipl,RADIATION THERAPY SERVICES AND SUPPLIES
+0394T ,Hdr elctrnc skn surf brchytx,RADIATION THERAPY SERVICES AND SUPPLIES
+0395T,Hdr elctr ntrst/ntrcv brchtx,RADIATION THERAPY SERVICES AND SUPPLIES
+19296,Place po breast cath for rad,RADIATION THERAPY SERVICES AND SUPPLIES
+19297,Place breast cath for rad,RADIATION THERAPY SERVICES AND SUPPLIES
+19298,Place breast rad tube/caths,RADIATION THERAPY SERVICES AND SUPPLIES
+20555,Place ndl musc/tis for rt,RADIATION THERAPY SERVICES AND SUPPLIES
+31643,Diag bronchoscope/catheter,RADIATION THERAPY SERVICES AND SUPPLIES
+32553,Ins mark thor for rt perq,RADIATION THERAPY SERVICES AND SUPPLIES
+32701,Thorax stereo rad targetw/tx,RADIATION THERAPY SERVICES AND SUPPLIES
+41019,Place needles h&n for rt,RADIATION THERAPY SERVICES AND SUPPLIES
+49327,Lap ins device for rt,RADIATION THERAPY SERVICES AND SUPPLIES
+49411,Ins mark abd/pel for rt perq,RADIATION THERAPY SERVICES AND SUPPLIES
+49412,Ins device for rt guide open,RADIATION THERAPY SERVICES AND SUPPLIES
+55875,Transperi needle place pros,RADIATION THERAPY SERVICES AND SUPPLIES
+55876,Place rt device/marker pros,RADIATION THERAPY SERVICES AND SUPPLIES
+55920,Place needles pelvic for rt,RADIATION THERAPY SERVICES AND SUPPLIES
+57155,Insert uteri tandems/ovoids,RADIATION THERAPY SERVICES AND SUPPLIES
+57156,Ins vag brachytx device,RADIATION THERAPY SERVICES AND SUPPLIES
+58346,Insert heyman uteri capsule,RADIATION THERAPY SERVICES AND SUPPLIES
+61770,Incise skull for treatment,RADIATION THERAPY SERVICES AND SUPPLIES
+61796,SRS cranial lesion simple,RADIATION THERAPY SERVICES AND SUPPLIES
+61797,SRS cran les simple addl,RADIATION THERAPY SERVICES AND SUPPLIES
+61798,SRS cranial lesion complex,RADIATION THERAPY SERVICES AND SUPPLIES
+61799,SRS cran les complex addl,RADIATION THERAPY SERVICES AND SUPPLIES
+61800,Apply SRS headframe add-on,RADIATION THERAPY SERVICES AND SUPPLIES
+63620,SRS spinal lesion,RADIATION THERAPY SERVICES AND SUPPLIES
+63621,SRS spinal lesion addl,RADIATION THERAPY SERVICES AND SUPPLIES
+64625,Rf abltj nrv nrvtg si jt,RADIATION THERAPY SERVICES AND SUPPLIES
+77261,Radiation therapy planning,RADIATION THERAPY SERVICES AND SUPPLIES
+77262,Radiation therapy planning,RADIATION THERAPY SERVICES AND SUPPLIES
+77263,Radiation therapy planning,RADIATION THERAPY SERVICES AND SUPPLIES
+77280,Set radiation therapy field,RADIATION THERAPY SERVICES AND SUPPLIES
+77285,Set radiation therapy field,RADIATION THERAPY SERVICES AND SUPPLIES
+77290,Set radiation therapy field,RADIATION THERAPY SERVICES AND SUPPLIES
+77295,Set radiation therapy field,RADIATION THERAPY SERVICES AND SUPPLIES
+77299,Radiation therapy planning,RADIATION THERAPY SERVICES AND SUPPLIES
+77300,Radiation therapy dose plan,RADIATION THERAPY SERVICES AND SUPPLIES
+77301,Radiotherapy dose plan imrt,RADIATION THERAPY SERVICES AND SUPPLIES
+77306,Telethx isodose plan simple,RADIATION THERAPY SERVICES AND SUPPLIES
+77307,Telethx isodose plan cplx,RADIATION THERAPY SERVICES AND SUPPLIES
+77316,Brachytx isodose plan simple,RADIATION THERAPY SERVICES AND SUPPLIES
+77317,Brachytx isodose intermed,RADIATION THERAPY SERVICES AND SUPPLIES
+77318,Brachytx isodose complex,RADIATION THERAPY SERVICES AND SUPPLIES
+77321,Special teletx port plan,RADIATION THERAPY SERVICES AND SUPPLIES
+77331,Special radiation dosimetry,RADIATION THERAPY SERVICES AND SUPPLIES
+77332,Radiation treatment aid(s),RADIATION THERAPY SERVICES AND SUPPLIES
+77333,Radiation treatment aid(s),RADIATION THERAPY SERVICES AND SUPPLIES
+77334,Radiation treatment aid(s),RADIATION THERAPY SERVICES AND SUPPLIES
+77336,Radiation physics consult,RADIATION THERAPY SERVICES AND SUPPLIES
+77338,Design mlc device for imrt,RADIATION THERAPY SERVICES AND SUPPLIES
+77370,Radiation physics consult,RADIATION THERAPY SERVICES AND SUPPLIES
+77371,Srs multisource,RADIATION THERAPY SERVICES AND SUPPLIES
+77372,Srs linear based,RADIATION THERAPY SERVICES AND SUPPLIES
+77373,Sbrt delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+77385,Ntsty modul rad tx dlvr smpl,RADIATION THERAPY SERVICES AND SUPPLIES
+77386,Ntsty modul rad tx dlvr cplx,RADIATION THERAPY SERVICES AND SUPPLIES
+77399,External radiation dosimetry,RADIATION THERAPY SERVICES AND SUPPLIES
+77401,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+77402,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+77407,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+77412,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+77417,Radiology port film(s),RADIATION THERAPY SERVICES AND SUPPLIES
+77423,Neutron beam tx complex,RADIATION THERAPY SERVICES AND SUPPLIES
+77427,Radiation tx management x5,RADIATION THERAPY SERVICES AND SUPPLIES
+77431,Radiation therapy management,RADIATION THERAPY SERVICES AND SUPPLIES
+77432,Stereotactic radiation trmt,RADIATION THERAPY SERVICES AND SUPPLIES
+77435,Sbrt management,RADIATION THERAPY SERVICES AND SUPPLIES
+77470,Special radiation treatment,RADIATION THERAPY SERVICES AND SUPPLIES
+77499,Radiation therapy management,RADIATION THERAPY SERVICES AND SUPPLIES
+77520,Proton trmt simple w/o comp,RADIATION THERAPY SERVICES AND SUPPLIES
+77522,Proton trmt simple w/comp,RADIATION THERAPY SERVICES AND SUPPLIES
+77523,Proton trmt intermediate,RADIATION THERAPY SERVICES AND SUPPLIES
+77525,Proton treatment complex,RADIATION THERAPY SERVICES AND SUPPLIES
+77600,Hyperthermia treatment,RADIATION THERAPY SERVICES AND SUPPLIES
+77605,Hyperthermia treatment,RADIATION THERAPY SERVICES AND SUPPLIES
+77610,Hyperthermia treatment,RADIATION THERAPY SERVICES AND SUPPLIES
+77615,Hyperthermia treatment,RADIATION THERAPY SERVICES AND SUPPLIES
+77620,Hyperthermia treatment,RADIATION THERAPY SERVICES AND SUPPLIES
+77750,Infuse radioactive materials,RADIATION THERAPY SERVICES AND SUPPLIES
+77761,Apply intrcav radiat simple,RADIATION THERAPY SERVICES AND SUPPLIES
+77762,Apply intrcav radiat interm,RADIATION THERAPY SERVICES AND SUPPLIES
+77763,Apply intrcav radiat compl,RADIATION THERAPY SERVICES AND SUPPLIES
+77767,Hdr rdncl skn surf brachytx,RADIATION THERAPY SERVICES AND SUPPLIES
+77768,Hdr rdncl skn surf brachytx,RADIATION THERAPY SERVICES AND SUPPLIES
+77770,Hdr rdncl ntrstl/icav brchtx,RADIATION THERAPY SERVICES AND SUPPLIES
+77771,Hdr rdncl ntrstl/icav brchtx,RADIATION THERAPY SERVICES AND SUPPLIES
+77772,Hdr rdncl ntrstl/icav brchtx,RADIATION THERAPY SERVICES AND SUPPLIES
+77778,Apply interstit radiat compl,RADIATION THERAPY SERVICES AND SUPPLIES
+77789,Apply surface radiation,RADIATION THERAPY SERVICES AND SUPPLIES
+77790,Radiation handling,RADIATION THERAPY SERVICES AND SUPPLIES
+77799,Radium/radioisotope therapy,RADIATION THERAPY SERVICES AND SUPPLIES
+78830,Rp loclzj tum spect w/ct 1 ,RADIATION THERAPY SERVICES AND SUPPLIES
+78831,Rp loclzj tum spect 2 areas,RADIATION THERAPY SERVICES AND SUPPLIES
+78832,Rp loclzj tum spect w/ct 2,RADIATION THERAPY SERVICES AND SUPPLIES
+78835,Rp quan meas single area,RADIATION THERAPY SERVICES AND SUPPLIES
+79005,Nuclear rx oral admin,RADIATION THERAPY SERVICES AND SUPPLIES
+79101,Nuclear rx iv admin,RADIATION THERAPY SERVICES AND SUPPLIES
+79200,Nuclear rx intracav admin,RADIATION THERAPY SERVICES AND SUPPLIES
+79300,Nuclr rx interstit colloid,RADIATION THERAPY SERVICES AND SUPPLIES
+79403,Hematopoietic nuclear tx,RADIATION THERAPY SERVICES AND SUPPLIES
+79440,Nuclear rx intra-articular,RADIATION THERAPY SERVICES AND SUPPLIES
+79445,Nuclear rx intra-arterial,RADIATION THERAPY SERVICES AND SUPPLIES
+79999,Nuclear medicine therapy,RADIATION THERAPY SERVICES AND SUPPLIES
+92974,Cath place cardio brachytx,RADIATION THERAPY SERVICES AND SUPPLIES
+A4650,Implant radiation dosimeter,RADIATION THERAPY SERVICES AND SUPPLIES
+A9513,Lutetium Lu 177 dotatat ther,RADIATION THERAPY SERVICES AND SUPPLIES
+A9517,"I131 iodide cap, rx",RADIATION THERAPY SERVICES AND SUPPLIES
+A9527,Iodine I-125 sodium iodide,RADIATION THERAPY SERVICES AND SUPPLIES
+A9530,"I131 iodide sol, rx",RADIATION THERAPY SERVICES AND SUPPLIES
+A9543,"Y90 ibritumomab, rx",RADIATION THERAPY SERVICES AND SUPPLIES
+A9563,P32 Na phosphate,RADIATION THERAPY SERVICES AND SUPPLIES
+A9564,P32 chromic phosphate,RADIATION THERAPY SERVICES AND SUPPLIES
+A9590,Iodine i-131 iobenguane 1mci,RADIATION THERAPY SERVICES AND SUPPLIES
+A9600,Sr89 strontium,RADIATION THERAPY SERVICES AND SUPPLIES
+A9604,Sm 153 lexidronam,RADIATION THERAPY SERVICES AND SUPPLIES
+A9606,Radium Ra223 dichloride ther,RADIATION THERAPY SERVICES AND SUPPLIES
+A9607,Lutetium lu 177 vipivotide,RADIATION THERAPY SERVICES AND SUPPLIES
+A9699,Radiopharm rx agent noc,RADIATION THERAPY SERVICES AND SUPPLIES
+C1716,"Brachytx, non-str, Gold-198",RADIATION THERAPY SERVICES AND SUPPLIES
+C1717,"Brachytx, non-str,HDR Ir-192",RADIATION THERAPY SERVICES AND SUPPLIES
+C1719,"Brachytx, NS, Non-HDRIr-192",RADIATION THERAPY SERVICES AND SUPPLIES
+C2616,"Brachytx, non-str,Yttrium-90",RADIATION THERAPY SERVICES AND SUPPLIES
+C2634,"Brachytx, non-str, HA, I-125",RADIATION THERAPY SERVICES AND SUPPLIES
+C2635,"Brachytx, non-str, HA, P-103",RADIATION THERAPY SERVICES AND SUPPLIES
+C2636,"Brachy linear, non-str,P-103",RADIATION THERAPY SERVICES AND SUPPLIES
+C2638,"Brachytx, stranded, I-125",RADIATION THERAPY SERVICES AND SUPPLIES
+C2639,"Brachytx,non-stranded,I-125",RADIATION THERAPY SERVICES AND SUPPLIES
+C2640,"Brachytx, stranded, P-103",RADIATION THERAPY SERVICES AND SUPPLIES
+C2641,"Brachytx, non-stranded,P-103",RADIATION THERAPY SERVICES AND SUPPLIES
+C2642,"Brachytx, stranded, C-131",RADIATION THERAPY SERVICES AND SUPPLIES
+C2643,"Brachytx, non-stranded,C-131",RADIATION THERAPY SERVICES AND SUPPLIES
+C2644,Brachytx cesium-131 chloride,RADIATION THERAPY SERVICES AND SUPPLIES
+C2645,"Brachytx planar, p-103",RADIATION THERAPY SERVICES AND SUPPLIES
+C2698,"Brachytx, stranded, NOS",RADIATION THERAPY SERVICES AND SUPPLIES
+C2699,"Brachytx, non-stranded, NOS",RADIATION THERAPY SERVICES AND SUPPLIES
+C9794,Complex simulation w/pet-ct,RADIATION THERAPY SERVICES AND SUPPLIES
+C9795,Sbrt w/positron emission del,RADIATION THERAPY SERVICES AND SUPPLIES
+G0339,"Robot lin-radsurg com, first",RADIATION THERAPY SERVICES AND SUPPLIES
+G0340,Robt lin-radsurg fractx 2-5,RADIATION THERAPY SERVICES AND SUPPLIES
+G6001 ,Echo guidance radiotherapy,RADIATION THERAPY SERVICES AND SUPPLIES
+G6002 ,Stereoscopic x-ray guidance,RADIATION THERAPY SERVICES AND SUPPLIES
+G6003 ,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6004,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6005,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6006 ,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6007 ,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6008,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6009,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6010,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6011,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6012,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6013,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6014,Radiation treatment delivery,RADIATION THERAPY SERVICES AND SUPPLIES
+G6015 ,Radiation tx delivery imrt,RADIATION THERAPY SERVICES AND SUPPLIES
+G6016 ,Delivery comp imrt,RADIATION THERAPY SERVICES AND SUPPLIES
+G6017 ,Intrafraction track motion,RADIATION THERAPY SERVICES AND SUPPLIES
+Q3001,Brachytherapy Radioelements,RADIATION THERAPY SERVICES AND SUPPLIES
+80061,Lipid panel [only when billed with ICD-10-CM code  Z13.6] ,RADIATION THERAPY SERVICES AND SUPPLIES
+81528,Oncology colorectal scr,RADIATION THERAPY SERVICES AND SUPPLIES
+82270,Occult blood feces,RADIATION THERAPY SERVICES AND SUPPLIES
+82465,Assay bld/serum cholesterol [only when billed with ICD-10-CM code Z13.6] ,RADIATION THERAPY SERVICES AND SUPPLIES
+82947,Assay glucose blood quant [only when billed with ICD-10-CM code Z13.1],RADIATION THERAPY SERVICES AND SUPPLIES
+82950,Glucose test [only when billed with ICD-10-CM code Z13.1],RADIATION THERAPY SERVICES AND SUPPLIES
+82951,Glucose tolerance test (GTT) [only when billed with ICD-10-CM code Z13.1],RADIATION THERAPY SERVICES AND SUPPLIES
+83718,Assay of lipoprotein [only when billed with ICD-10-CM code Z13.6] ,RADIATION THERAPY SERVICES AND SUPPLIES
+84478,Assay of triglycerides [only when billed with ICD-10-CM code Z13.6] ,RADIATION THERAPY SERVICES AND SUPPLIES
+G0103,PSA screening,RADIATION THERAPY SERVICES AND SUPPLIES
+G0106,Colon CA screen;barium enema,RADIATION THERAPY SERVICES AND SUPPLIES
+G0118,Glaucoma scrn hgh risk direc,RADIATION THERAPY SERVICES AND SUPPLIES
+G0120,Colon ca scrn; barium enema,RADIATION THERAPY SERVICES AND SUPPLIES
+G0123,Screen cerv/vag thin layer,RADIATION THERAPY SERVICES AND SUPPLIES
+G0124,Screen c/v thin layer by MD,RADIATION THERAPY SERVICES AND SUPPLIES
+G0141,"Scr c/v cyto,autosys and md",RADIATION THERAPY SERVICES AND SUPPLIES
+G0143,"Scr c/v cyto,thinlayer,rescr",RADIATION THERAPY SERVICES AND SUPPLIES
+G0144,"Scr c/v cyto,thinlayer,rescr",RADIATION THERAPY SERVICES AND SUPPLIES
+G0145 ,"Scr c/v cyto,thinlayer,rescr",RADIATION THERAPY SERVICES AND SUPPLIES
+G0147,"Scr c/v cyto, automated sys",RADIATION THERAPY SERVICES AND SUPPLIES
+G0148,"Scr c/v cyto, autosys, rescr",RADIATION THERAPY SERVICES AND SUPPLIES
+G0327,Colon ca scrn;bld-bsd biomrk,RADIATION THERAPY SERVICES AND SUPPLIES
+G0328,Fecal blood scrn immunoassay,RADIATION THERAPY SERVICES AND SUPPLIES
+G0432,EIA HIV-1/HIV-2 screen,RADIATION THERAPY SERVICES AND SUPPLIES
+G0433,ELISA HIV-1/HIV-2 screen,RADIATION THERAPY SERVICES AND SUPPLIES
+G0435,Oral HIV-1/HIV-2 screen,RADIATION THERAPY SERVICES AND SUPPLIES
+G0475 ,HIV combination assay,RADIATION THERAPY SERVICES AND SUPPLIES
+G0499,HepB screen high risk indiv,RADIATION THERAPY SERVICES AND SUPPLIES
+P3000,Screen pap by tech w md supv,RADIATION THERAPY SERVICES AND SUPPLIES
+P3001,Screening pap smear by phys,RADIATION THERAPY SERVICES AND SUPPLIES
+90630,Flu vacc iiv4 no preserv id,RADIATION THERAPY SERVICES AND SUPPLIES
+90654,Flu vacc iiv3 no preserv id,RADIATION THERAPY SERVICES AND SUPPLIES
+90655,IIV3 vacc no prsv 0.25 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90656,IIV3 vacc no prsv 0.5 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90657,IIV3 vaccine splt 0.25 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90660,LAIV3 vaccine intranasal,RADIATION THERAPY SERVICES AND SUPPLIES
+90661,CCIIV3 vac no prsv 0.5 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90662,IIV no prsv increased ag im,RADIATION THERAPY SERVICES AND SUPPLIES
+90670,PCV13 vaccine im,RADIATION THERAPY SERVICES AND SUPPLIES
+90671,Pcv15 vaccine im,RADIATION THERAPY SERVICES AND SUPPLIES
+90672,LAIV4 vaccine intranasal,RADIATION THERAPY SERVICES AND SUPPLIES
+90673,RIV3 vaccine no preserv im,RADIATION THERAPY SERVICES AND SUPPLIES
+90674,CCIIV4 vac no prsv 0.5 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90677,Pcv20 vaccine im,RADIATION THERAPY SERVICES AND SUPPLIES
+90682,RIV4 vacc recombinant dna im,RADIATION THERAPY SERVICES AND SUPPLIES
+90685,IIV4 vacc no prsv 0.25 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90686,IIV4 vacc no prsv 0.5 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90687,IIV4 vacc splt 0.25 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90688,IIV4 vacc splt 0.5 ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90689,Vacc iiv4 no prsrv 0.25ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90694,Vacc aiiv4 no prsrv 0.5ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+90732,PPSV23 vacc 2 yrs+ subq/im,RADIATION THERAPY SERVICES AND SUPPLIES
+90740,Hepb vacc 3 dose immunsup im,RADIATION THERAPY SERVICES AND SUPPLIES
+90743,Hepb vacc 2 dose adolesc im,RADIATION THERAPY SERVICES AND SUPPLIES
+90744,Hepb vacc 3 dose ped/adol im,RADIATION THERAPY SERVICES AND SUPPLIES
+90746,Hepb vaccine 3 dose adult im,RADIATION THERAPY SERVICES AND SUPPLIES
+90747,Hepb vacc 4 dose immunsup im,RADIATION THERAPY SERVICES AND SUPPLIES
+90749,Unlisted vaccine/toxoid[only when used to identify a COVID-19 vaccine],RADIATION THERAPY SERVICES AND SUPPLIES
+90756,Cciiv4 vacc abx free im,RADIATION THERAPY SERVICES AND SUPPLIES
+90759,Hep b vac 3ag 10mcg 3 dos im,RADIATION THERAPY SERVICES AND SUPPLIES
+91302,Sarscov2 vac 5x10^10vp/.5mlim,RADIATION THERAPY SERVICES AND SUPPLIES
+91304,Sarscov2 vac 5mcg/0.5ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+91310,Sarscov2 vac 5mcg/0.5ml as03,RADIATION THERAPY SERVICES AND SUPPLIES
+91318,Sarscov2 vac 3mcg trs-suc im,RADIATION THERAPY SERVICES AND SUPPLIES
+91319,Sarscv2 vac 10mcg trs-suc im,RADIATION THERAPY SERVICES AND SUPPLIES
+91320,Sarscv2 vac 30mcg trs-suc im,RADIATION THERAPY SERVICES AND SUPPLIES
+91321,Sarscov2 vac 25 mcg/.25ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+91322,Sarscov2 vac 50 mcg/0.5ml im,RADIATION THERAPY SERVICES AND SUPPLIES
+Q0220,"Tixagev and cilgav, 300mg",RADIATION THERAPY SERVICES AND SUPPLIES
+Q0221,"Tixagev and cilgav, 600mg",RADIATION THERAPY SERVICES AND SUPPLIES
+Q0222,Bebtelovimab 175 mg,RADIATION THERAPY SERVICES AND SUPPLIES
+Q0240,Casirivi and imdevi 600 mg,RADIATION THERAPY SERVICES AND SUPPLIES
+Q0243,Casirivimab and imdevimab,RADIATION THERAPY SERVICES AND SUPPLIES
+Q0244,Casirivi and imdevi 1200 mg,RADIATION THERAPY SERVICES AND SUPPLIES
+Q0245,Bamlanivimab and etesevima,RADIATION THERAPY SERVICES AND SUPPLIES
+Q0247,Sotrovimab,RADIATION THERAPY SERVICES AND SUPPLIES
+Q0249,Tocilizumab for covid-19,RADIATION THERAPY SERVICES AND SUPPLIES
+Q2034,Agriflu vaccine,RADIATION THERAPY SERVICES AND SUPPLIES
+Q2035,"Afluria vacc, 3 yrs & >, im",RADIATION THERAPY SERVICES AND SUPPLIES
+Q2036,"Flulaval vacc, 3 yrs & >, im",RADIATION THERAPY SERVICES AND SUPPLIES
+Q2037,"Fluvirin vacc, 3 yrs & >, im",RADIATION THERAPY SERVICES AND SUPPLIES
+Q2038,"Fluzone vacc, 3 yrs & >, im",RADIATION THERAPY SERVICES AND SUPPLIES
