@@ -70,8 +70,8 @@ jobs:
         source venv/bin/activate
         airflow dags trigger loan_approval_prediction_new
 
-    - name: Trigger Airflow Dag(Chemical)
-      run :
+    - name: Trigger Airflow Dag (Chemical)
+      run: |
         source venv/bin/activate
         airflow dags trigger chemical_product_analysis
 
@@ -82,7 +82,7 @@ jobs:
       if: failure()
       
     - name: Upload logs as artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: airflow-logs
         path: logs/
