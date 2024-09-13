@@ -31,7 +31,7 @@ jobs:
         python -m venv venv
         source venv/bin/activate
         pip install apache-airflow
-        pip install pandas numpy scikit-learn mlflow joblib
+        pip install pandas numpy scikit-learn mlflow joblib sentence-transformers
 
     - name: Initialize Airflow database
       run: |
@@ -46,6 +46,7 @@ jobs:
     - name: Copy dataset to the correct location
       run: |
         cp data/LoanApprovalPrediction.csv $AIRFLOW_HOME/LoanApprovalPrediction.csv
+        cp data/EHS_dupli_15.xlsx $AIRFLOW_HOME/EHS_dupli_15.xlsx
 
     - name: Start Airflow Webserver
       run: |
@@ -68,6 +69,11 @@ jobs:
       run: |
         source venv/bin/activate
         airflow dags trigger loan_approval_prediction_new
+
+    - name: Trigger Airflow Dag(Chemical)
+      run :
+        source venv/bin/activate
+        airflow dags trigger chemical_product_analysis
 
     - name: Collect and store logs
       run: |
